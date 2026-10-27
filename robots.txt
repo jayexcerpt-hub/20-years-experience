@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://scintillating-heliotrope-316284.netlify.app/sitemap.xml
+Sitemap: https://20.tekziora.in/sitemap.xml
